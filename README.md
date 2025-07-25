@@ -5,9 +5,9 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on: `Library Management System`, `Leetcode/Codeforces stuff`
-- 🧠 Learning: C, MySQL, and ✨ game dev ✨
-- 💻 OS: Xubuntu & Windows 10 dual boot gang
+- 🔭 Currently working on: `JEE 2026`
+- 🧠 Learning: C, MySQL, and ✨ Python ✨
+- 💻 OS: Xubuntu as Windows sucks.
 - ⚡ Fun fact: I might rage install Arch again. Remind me not to.
 
 ---
@@ -15,7 +15,6 @@
 ## 🔧 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![Neovim](https://img.shields.io/badge/-Neovim-05122A?style=flat&logo=neovim)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
@@ -33,9 +32,7 @@
 
 ## 🌐 Let's Connect
 
-- Discord: `yourtag#1234`
-- [Twitter](https://twitter.com/yourhandle) if you want
-- [LinkedIn](https://linkedin.com/in/yourname) if you're fancy like that
+- Discord: `pogboi2342`
 
 ---
 
