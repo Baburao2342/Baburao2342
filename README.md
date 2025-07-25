@@ -1,6 +1,5 @@
 # 👋 Hey there, I'm Fernando!
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Baburao2342.Baburao2342)
 [![GitHub](https://img.shields.io/github/followers/Baburao2342?label=Follow&style=social)](https://github.com/Baburao2342)
 
 ## 🚀 About Me
