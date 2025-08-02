@@ -6,7 +6,7 @@
 
 - 🔭 Currently working on: `JEE 2026`
 - 🧠 Learning: C, MySQL, and ✨ Python ✨
-- 💻 OS: Xubuntu as Windows sucks.
+- 💻 OS: EndeavourOS as Windows sucks.
 - ⚡ Fun fact: I might rage install Arch again. Remind me not to.
 
 ---
