@@ -7,7 +7,7 @@
 - 🔭 Currently working on: `JEE 2026`
 - 🧠 Learning: C, MySQL, and ✨ Python ✨
 - 💻 OS: EndeavourOS as Windows sucks.
-- ⚡ Fun fact: I might rage install Arch again. Remind me not to.
+- ⚡ Fun fact: I fell for a Linux vtuber who cosplayed as a cute anime girl but was actually a boy.
 
 ---
 
